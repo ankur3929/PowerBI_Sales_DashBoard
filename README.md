@@ -1,6 +1,6 @@
 # PowerBI_Sales_DashBoard
 
-Requirement : 
+Requirements : 
 
 1. Distribution of Sum of sale, sum Of Quantity, Returned Orders, Average delivery day with respect to total Year.
 
