@@ -1,4 +1,10 @@
 # PowerBI_Sales_DashBoard
+![Uploading Screenshot (30).png…]()
+
+
+
+
+
 
 Requirements : 
 
